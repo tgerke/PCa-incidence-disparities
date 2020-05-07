@@ -5,7 +5,12 @@ For a current project describing racial disparities in prostate cancer outcomes,
 
 ![](plots/cdc-site-plot.png)
 
-Since that won't do, you can get actual from [https://wonder.cdc.gov/](https://wonder.cdc.gov/).
+Since that won't do, I need to roll my own. You can get the underlying incidence data from [https://wonder.cdc.gov/](https://wonder.cdc.gov/).
 
-![](plots/tidy-plot.png)
+In short order, I came up with the following the ggplot version.
+
+![](plots/gg-incidence.png)
+
+For kicks, I thought I would spend the same amount of time doing what I did for the better part of a decade: doing this same plot in base R. The result is still better than the CDC version, but it doesn't come close to the shine of the ggplot figure.
+
 ![](plots/base-plot.png)
