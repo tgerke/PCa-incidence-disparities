@@ -11,6 +11,6 @@ Since that won't do, I need to roll my own. You can get the underlying incidence
 
 ![](plots/gg-incidence.png)
 
-For kicks, I thought I would spend the same amount of time doing what I did for the better part of a decade: doing this same plot in base R. The result is still better than the CDC version, but it doesn't come close to the shine of the ggplot figure.
+For kicks, I thought I would spend the same amount of time doing what I did for the better part of a decade: doing this same plot in base R. The result is still better than the CDC version, but it doesn't come close to the shine of the ggplot figure. On top of this, portions of that base code are not nearly as human-readable (without excessive staring) as the ggplot version; both of these scripts can be found in the `R/` directory within this repository.
 
 ![](plots/base-plot.png)
