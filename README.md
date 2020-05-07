@@ -1,7 +1,7 @@
 Prostate cancer disparities data visualization
 =====================
 
-_This is a quick show of gratitude for how ggplot's elegance and simplicity has totally transformed the way high-quality figures can be quickly generated_
+_This is a quick show of gratitude for how ggplot's elegance and simplicity has totally transformed the way high-quality figures can be generated._
 
 For a current project describing racial disparities in prostate cancer outcomes, I needed to plot some CDC incidence data over time. [CDC](https://www.cdc.gov/cancer/dcpc/research/articles/cancer_2020_incidence.htm) provides the below plot of such data and it's :grimacing: :grimacing: :grimacing:.
 
